@@ -1,0 +1,43 @@
+body{
+    background-color: powderblue;
+    margin: 2rem 4rem
+    
+}
+
+img{
+    height: 400px;
+    width: 25%;
+    border-radius: 50%;
+    border: 5px solid #555;
+}
+
+h1{
+    text-align: center;
+    font-size: 4rem;
+    padding: 20px 
+}
+
+h2{
+    font-size: 2rem;
+}
+
+h2.entry-title{
+    text-align: center;
+}
+
+a{
+    font-size: 1rem;
+}
+
+ol{ 
+    color: rgb(100, 65, 11);
+}
+
+ul{
+    color: rgb(98, 66, 18);
+}
+
+article{
+    padding: 20px 100px;
+    text-align: center;
+}
